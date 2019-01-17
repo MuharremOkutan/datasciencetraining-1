@@ -105,3 +105,12 @@ venv.bak/
 /Untitled.ipynb
 /breast-cancer-head-line.csv
 /breast-cancer-head-line.xls
+/breast-cancer-change-age.csv
+/breast-cancer-change-breast-quad.csv
+/breast-cancer-change-breast.csv
+/breast-cancer-change-class.csv
+/breast-cancer-change-inv-nodes.csv
+/breast-cancer-change-irradiat.csv
+/breast-cancer-change-menopause.csv
+/breast-cancer-change-node-caps.csv
+/breast-cancer-change-tumor-size.csv
