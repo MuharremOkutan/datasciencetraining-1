@@ -21,7 +21,7 @@ Local installation of Python 3.6 and the Jupyter environment
 You are almost finished. What is left is to check out or download this repository.
 Please note that you should check it out into your document folder (allowance to write and easy to find in jupiter).
 
-# Congratiolations your preparations are finished!
+# Congratiolations your preperations are finished!
 
 
 # Datascience Training
