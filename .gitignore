@@ -103,3 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 /Untitled.ipynb
+/breast-cancer-head-line.csv
+/breast-cancer-head-line.xls
