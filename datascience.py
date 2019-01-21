@@ -1,13 +1,15 @@
 # -*- coding: utf-8 -*-
 
 """
-01 TODO: Why do we need the three imports ? Find it out yourself, or ask the instructor. 
-		 Be Aware the these import could be replaced with a lot of other doing the same.
+01 TODO: Why do we need the imports ? Find it out yourself, or ask the instructor. 
+		 Be Aware the these import could be replaced with a lot of other doing the same thing.
 """
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as mpl
+import matplotlib.pyplot as plt 
+import matplotlib.gridspec as gridspec
 
 """
 02 TODO: Load the dataset for breast cancer located in the repository, into your python file.
