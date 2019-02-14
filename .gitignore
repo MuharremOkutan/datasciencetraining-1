@@ -114,3 +114,9 @@ venv.bak/
 /breast-cancer-change-menopause.csv
 /breast-cancer-change-node-caps.csv
 /breast-cancer-change-tumor-size.csv
+diabetic_data_change-race.csv
+diabetic_data_change-weight.csv
+diabetic_data_change-medical_specialty.csv
+diabetic_data_change-gender.csv
+diabetic_data_change-diabetesmed.csv
+diabetic_data_change-age.csv
